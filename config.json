@@ -1,5 +1,5 @@
 {
-    "ExposureTime": 600000,
+    "ExposureTime": 800000,
     "Gain": 6,
     "PixelFormat": "Rgb8",
     "ArduinoCommands": {

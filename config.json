@@ -1,0 +1,33 @@
+{
+    "ExposureTime": 600000,
+    "Gain": 6,
+    "PixelFormat": "Rgb8",
+    "ArduinoCommands": {
+        "Briiliance": {
+            "ON": "B",
+            "OFF": "C",
+            "color": "#888888"
+        },
+        "Fire": {
+            "ON": "F",
+            "OFF": "C",
+            "color": "#FFA500"
+        },
+        "Sparkle": {
+            "ON": "S",
+            "OFF": "C",
+            "color": "#87CEEB"
+        },
+        "Dummy": {
+            "ON": "MSTART",
+            "OFF": "MSTOP",
+            "color": "#2ECC71"
+        },
+        "CloseAll": {
+            "CMD": "C",
+            "color": "#FF0000"
+        },
+        "signature": ""
+    },
+    "signature": "1d65517938253a591071bcad83bfa5a3d51feb7a3f160d16fb60e07f69ec7fe7"
+}
